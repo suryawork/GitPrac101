@@ -1,4 +1,4 @@
-name: Workflows new
+name: Workflows
 on: push
 jobs:
   test:
